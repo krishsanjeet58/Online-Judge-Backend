@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Online-Judge-Backend.iml" filepath="$PROJECT_DIR$/.idea/Online-Judge-Backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/OnlineJudge.iml" filepath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/OnlineJudge.iml" />
     </modules>
   </component>
 </project>
