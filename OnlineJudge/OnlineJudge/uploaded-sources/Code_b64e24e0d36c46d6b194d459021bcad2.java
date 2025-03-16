@@ -1,0 +1,1 @@
+{"code":"class Code_b64e24e0d36c46d6b194d459021bcad2 {\n\n  public static void main(String[] args) {\n    \n    int first = 10;\n    int second = 20;\n\n    // add two numbers\n    int sum = first + second;\n    System.out.println(first + \" + \" + second + \" = \"  + sum);\n  }\n}"}

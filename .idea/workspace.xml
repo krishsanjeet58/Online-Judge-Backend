@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b9f3bd9-321b-4745-a771-cbc56c0ac4fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/compiled-classes/Code_dc67fd0e745a4ec28dcdad38946b2a11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_0a366a010cfb461fa8561c89f3b22975.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_0a5bc8197bb64b71b972d9a9f989797b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_23049087fe8f459482078f5e1afaabc7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_6da07b63e4fe45e0a265ad75ab9983cf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_7276b63ca26d416797d50e99f02d2710.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_9c0d8a2b121f4696a1e4a15f92dd106b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_a60174edb3f54724b0358de813fff16e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_ae0d901cf2db4e73ae00762d2e10f9b6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_b4da18ca6d39413abf66369f9c5d8491.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_b64e24e0d36c46d6b194d459021bcad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_dc67fd0e745a4ec28dcdad38946b2a11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/uploaded-sources/Code_fbc55b6f314749aaa27773a452f6a077.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Controller/CompilerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Controller/CompilerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiled-classes/Code_0f8c27c2110c4b6a92b1ed19a1c2875e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiled-classes/Code_28c736f369b84751b3c3095cd823d45f.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiled-classes/Code_a51f15bf6ebe4c30a0a2fe82da7bec15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiled-classes/Code_e1d58b6cca6944e5a9a8847a182e2487.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiled-classes/Code_f28b448aa285461a8d6f3cdd7cb2acae.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiled-classes/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_0f8c27c2110c4b6a92b1ed19a1c2875e.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_1e2ee90c92064b30bb56f532a76f963b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_28c736f369b84751b3c3095cd823d45f.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_42263958dfa04b9da0f9c3664f719ade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_695862a9386c43dea7c8223436cf38c8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_784ca1f8cbcb437bb6342fe5dd1af594.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_9794da2873064c068665ef96a4ceec48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_a51f15bf6ebe4c30a0a2fe82da7bec15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_b8d6cad1c13e4aef87e92ad083d09923.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_d473e582a0ec4c85a998a70d5d02d5c0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_e1d58b6cca6944e5a9a8847a182e2487.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_e69de415c28348bdab0d717ec60a14ba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_f28b448aa285461a8d6f3cdd7cb2acae.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/Code_f8223e4eab914ef688543403e31695a1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/codes_2ee35e4a-ed90-4ca4-a51e-837e6ad560d4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/codes_49479fe2-0006-490c-a151-ee68db5a4386.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploaded-sources/codes_b76c8fa1-9ad3-44bf-b0ec-e9642334a6a4.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/OnlineJudge/OnlineJudge">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/OnlineJudge/OnlineJudge">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OnlineJudge" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OnlineJudge" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OnlineJudge" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OnlineJudge" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ry0thueIXT1qVZbCAbpGfrdUrB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Online Judge/Online-Judge-Backend&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.OnlineJudgeApplication">
+    <configuration name="OnlineJudgeApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="OnlineJudge.OnlineJudge.OnlineJudgeApplication" />
+      <module name="OnlineJudge.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineJudgeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnlineJudge.OnlineJudge.OnlineJudgeApplication" />
+      <module name="OnlineJudge.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OnlineJudge.OnlineJudge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineJudge [OnlineJudgeApplication]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/OnlineJudge/OnlineJudge" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="OnlineJudgeApplication" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OnlineJudge [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/OnlineJudge/OnlineJudge" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OnlineJudge [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/OnlineJudge/OnlineJudge" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.OnlineJudgeApplication" />
+      <item itemvalue="Gradle.OnlineJudge [OnlineJudgeApplication]" />
+      <item itemvalue="Gradle.OnlineJudge [clean]" />
+      <item itemvalue="Gradle.OnlineJudge [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineJudgeApplication" />
+        <item itemvalue="Gradle.OnlineJudge [build]" />
+        <item itemvalue="Gradle.OnlineJudge [clean]" />
+        <item itemvalue="Application.OnlineJudgeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b9f3bd9-321b-4745-a771-cbc56c0ac4fc" name="Changes" comment="" />
+      <created>1737516223606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737516223606</updated>
+    </task>
+    <task id="LOCAL-00001" summary="this is my first commit">
+      <created>1737516433760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737516433760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this is my first commit">
+      <created>1737516790367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737516790367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="this is my second commit">
+      <created>1737908026619</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737908026619</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="this is my first commit" />
+    <MESSAGE value="this is my second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is my second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Controller/CompilerController.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Controller/CompilerController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Controller/CompilerController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OnlineJudge/OnlineJudge/src/main/java/OnlineJudge/OnlineJudge/Service/CompilerService.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -14,7 +14,7 @@ public class CompilerController {
     public CompilerController(CompilerService compilerService) {
         this.compilerService = compilerService;
     }
-    @PostMapping("/")
+    @PostMapping("/run")
     public ResponseEntity<String> compileCode(@RequestHeader(value = "language",defaultValue = "java") String language, @RequestBody(required = false) String code  ) {
         if(code==null || code.isEmpty())
         {
